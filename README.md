@@ -20,8 +20,6 @@ A simple and efficient QR Code generator written in JavaScript that allows you t
     ```
 
 
-2. Follow the on-screen instructions to generate your QR Code.
-
 ## Contributing
 
 Contributions are welcome! Please fork this repository and submit a pull request with your changes.
