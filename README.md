@@ -2,7 +2,7 @@
 
 # QR Code Generator
 
-A simple and efficient QR Code generator written in [Programming Language] that allows you to generate QR Codes for various types of data.
+A simple and efficient QR Code generator written in JavaScript that allows you to generate QR Codes for various types of data.
 
 ## Features
 
@@ -19,25 +19,10 @@ A simple and efficient QR Code generator written in [Programming Language] that 
     cd QR-Code-Generator
     ```
 
-2. Install the required dependencies:
-    ```bash
-    [Command to install dependencies]
-    ```
-
-## Usage
-
-1. Run the application:
-    ```bash
-    [Command to run the application]
-    ```
 
 2. Follow the on-screen instructions to generate your QR Code.
 
 ## Contributing
 
 Contributions are welcome! Please fork this repository and submit a pull request with your changes.
-
-## License
-
-This project is licensed under the MIT License.
-
+----
